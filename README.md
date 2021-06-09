@@ -1,1 +1,1 @@
-# rnpureapp
+# React native pure app 
